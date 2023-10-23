@@ -1,15 +1,1 @@
-```python
-class SoftwareDeveloper:
-    def __init__(self):
-        self.name = "Banuka Liyanage"
-        self.interested_in = ["SEO Tools", "AI Tools"]
-        self.skills = ["Python"]
-        self.api_experience = ["OpenAI API"]
-
-    def about_me(self):
-        return f"Hello, my name is {self.name}. I am a newbie in coding, keen on building {self.interested_in[0]} and {self.interested_in[1]} \
-using my {self.skills[0]} skills. I'm experienced in working with {self.api_experience[0]}."
-
-developer = SoftwareDeveloper()
-print(developer.about_me())
-```
+The sandbox where I explore and delve deep into learning and building Python projects, with a special focus on creating AI-powered SEO tools. Here, you will see my journey in harnessing the power of Artificial Intelligence to optimize search engine performance.
